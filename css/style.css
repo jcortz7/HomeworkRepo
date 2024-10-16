@@ -1,7 +1,7 @@
 td, th {
   border: 1px solid;
 }
-img src="images/mars.jpg {
+img src="images/mars.jpg" {
   width: 200px;
   height: 300px;
 }
@@ -16,15 +16,15 @@ img src="images/mars.jpg {
   font-weight: 700;
   font-style: normal;
 }
-img src="images/venus.jpg {
+img src="images/venus.jpg" {
   width: 200px;
   height: 300px;
 }
-img src="images/saturn.jpg {
+img src="images/saturn.jpg" {
   width: 200px;
   height: 300px;
 }
-img src="images/uranus.jpg {
+img src="images/uranus.jpg" {
   width: 200px;
   height: 300px;
 }
