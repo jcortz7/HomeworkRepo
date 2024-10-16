@@ -1,6 +1,17 @@
 td, th {
-	border: 1px solid;
+  border: 1px solid;
 }
 img {
   border-radius: 8px;
+}
+.agdasima-regular {
+  font-family: "Agdasima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.agdasima-bold {
+  font-family: "Agdasima", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
