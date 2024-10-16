@@ -1,8 +1,9 @@
 td, th {
   border: 1px solid;
 }
-img {
-  border-radius: 8px;
+img src="images/mars.jpg {
+  width: 200px;
+  height: 300px;
 }
 .agdasima-regular {
   font-family: "Agdasima", sans-serif;
@@ -14,4 +15,16 @@ img {
   font-family: "Agdasima", sans-serif;
   font-weight: 700;
   font-style: normal;
+}
+img src="images/venus.jpg {
+  width: 200px;
+  height: 300px;
+}
+img src="images/saturn.jpg {
+  width: 200px;
+  height: 300px;
+}
+img src="images/uranus.jpg {
+  width: 200px;
+  height: 300px;
 }
