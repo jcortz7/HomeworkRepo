@@ -1,4 +1,4 @@
-.nav {
+.main-navbar {
     background-color: #000; 
     overflow: hidden;
     float: left; 
@@ -9,5 +9,18 @@
     padding: 10px 20px; 
     color: #fff;
     text-decoration: underline overline; 
+    display: block; 
+}
+.sidebar {
+    position: fixed;
+    right: 0%;
+    background-color: #000;
+    height: 100%;
+    width: 20%;
+    list-style-type: none;
+    text-align: center;
+    padding: 15px 0; 
+    color: #fff;
+    text-decoration: none; 
     display: block; 
 }
